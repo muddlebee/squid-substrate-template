@@ -1,4 +1,4 @@
-# Squid template project
+# Squid template project for Polkadot
 
 A starter [Squid](https://subsquid.io) project to demonstrate its structure and conventions.
 It accumulates [kusama](https://kusama.network) account transfers and serves them via GraphQL API.
